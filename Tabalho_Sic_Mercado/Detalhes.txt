@@ -1,0 +1,2 @@
+﻿imagens do tipo categoria tamanho 200x200
+imagens do tipo produto tamanho 600x600
